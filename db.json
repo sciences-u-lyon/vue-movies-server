@@ -2,7 +2,7 @@
   "movies": [
     {
       "id": 1,
-      "poster": "/static/img/avengers.jpg",
+      "poster": "img/avengers.jpg",
       "title": "Avengers: Infinity War",
       "release": "4 May 2018",
       "genres": [
@@ -72,7 +72,7 @@
     },
     {
       "id": 2,
-      "poster": "/static/img/baywatch.jpg",
+      "poster": "img/baywatch.jpg",
       "title": "Baywatch",
       "release": "25 May 2017",
       "genres": [
@@ -141,7 +141,7 @@
     },
     {
       "id": 3,
-      "poster": "/static/img/black-panther.jpg",
+      "poster": "img/black-panther.jpg",
       "title": "Black Panther",
       "release": "16 February 2018",
       "genres": [
@@ -212,7 +212,7 @@
     },
     {
       "id": 4,
-      "poster": "/static/img/bridget-jones-baby.jpg",
+      "poster": "img/bridget-jones-baby.jpg",
       "title": "Bridget Jones Baby",
       "release": "16 September 2016",
       "genres": [
@@ -282,7 +282,7 @@
     },
     {
       "id": 5,
-      "poster": "/static/img/coco.jpg",
+      "poster": "img/coco.jpg",
       "title": "Coco",
       "release": "21 November 2017",
       "genres": [
@@ -352,7 +352,7 @@
     },
     {
       "id": 6,
-      "poster": "/static/img/dallas-buyers-club.jpg",
+      "poster": "img/dallas-buyers-club.jpg",
       "title": "Dallas Buyers Club",
       "release": "22 November 2013",
       "genres": [
@@ -418,7 +418,7 @@
     },
     {
       "id": 7,
-      "poster": "/static/img/inception.jpg",
+      "poster": "img/inception.jpg",
       "title": "Inception",
       "release": "16 July 2010",
       "genres": [
@@ -486,7 +486,7 @@
     },
     {
       "id": 8,
-      "poster": "/static/img/intouchable.jpg",
+      "poster": "img/intouchable.jpg",
       "title": "Intouchables",
       "release": "2 November 2011",
       "genres": [
@@ -555,7 +555,7 @@
     },
     {
       "id": 9,
-      "poster": "/static/img/jurassic-world.jpg",
+      "poster": "img/jurassic-world.jpg",
       "title": "Jurassic World: Fallen Kingdom",
       "release": "22 June 2018",
       "genres": [
@@ -625,7 +625,7 @@
     },
     {
       "id": 10,
-      "poster": "/static/img/the-last-jedi.jpg",
+      "poster": "img/the-last-jedi.jpg",
       "title": "Star Wars: The Last Jedi",
       "release": "15 December 2017",
       "genres": [
@@ -700,7 +700,7 @@
     },
     {
       "id": 11,
-      "poster": "/static/img/toy-story.jpg",
+      "poster": "img/toy-story.jpg",
       "title": "Toy Story 3",
       "release": "18 June 2010",
       "genres": [
@@ -770,7 +770,7 @@
     },
     {
       "id": 12,
-      "poster": "/static/img/train-to-busan.jpg",
+      "poster": "img/train-to-busan.jpg",
       "title": "Train To Busan3",
       "release": "17 August 2016",
       "genres": [
