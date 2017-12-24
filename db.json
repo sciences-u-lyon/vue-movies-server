@@ -1,0 +1,842 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "poster": "/static/img/avengers.jpg",
+      "title": "Avengers: Infinity War",
+      "release": "4 May 2018",
+      "genres": [
+        { "id": "ACTION", "label": "Action" },
+        { "id": "ADVENTURE", "label": "Adventure" },
+        { "id": "FANTASY", "label": "Fantasy" }
+      ],
+      "country": { "id": "USA", "label": "USA" },
+      "abstract": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+      "days": [
+        {
+          "id": "today",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" },
+            { "id": 4, "time": "20:00" }
+          ]
+        },
+        {
+          "id": "1/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "18:00" }
+          ]
+        },
+        {
+          "id": "2/1",
+          "tickets": [
+            { "id": 1, "time": "20:00" }
+          ]
+        },
+        {
+          "id": "3/1",
+          "tickets": [
+            { "id": 1, "time": "18:00" },
+            { "id": 2, "time": "20:00" },
+            { "id": 3, "time": "22:00" }
+          ]
+        },
+        {
+          "id": "4/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" },
+            { "id": 4, "time": "20:00" },
+            { "id": 5, "time": "22:00" }
+          ]
+        },
+        {
+          "id": "5/1",
+          "tickets": [
+            { "id": 1, "time": "20:00" },
+            { "id": 2, "time": "22:00" }
+          ]
+        },
+        {
+          "id": "6/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "poster": "/static/img/baywatch.jpg",
+      "title": "Baywatch",
+      "release": "25 May 2017",
+      "genres": [
+        { "id": "ACTION", "label": "Action" },
+        { "id": "COMEDY", "label": "Comedy" },
+        { "id": "CRIME", "label": "Crime" }
+      ],
+      "country": { "id": "USA", "label": "USA" },
+      "abstract": "Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit, as they uncover a criminal plot that threatens the future of the bay.",
+      "days": [
+        {
+          "id": "today",
+          "tickets": [
+            { "id": 1, "time": "18:00" }
+          ]
+        },
+        {
+          "id": "1/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" },
+            { "id": 4, "time": "20:00" }
+          ]
+        },
+        {
+          "id": "2/1",
+          "tickets": [
+            { "id": 1, "time": "16:00" },
+            { "id": 2, "time": "18:00" },
+            { "id": 3, "time": "20:00" },
+            { "id": 4, "time": "22:00" }
+          ]
+        },
+        {
+          "id": "3/1",
+          "tickets": [
+            { "id": 1, "time": "16:00" },
+            { "id": 2, "time": "18:00" }
+          ]
+        },
+        {
+          "id": "4/1",
+          "tickets": [
+            { "id": 1, "time": "16:00" },
+            { "id": 2, "time": "18:00" },
+            { "id": 3, "time": "20:00" }
+          ]
+        },
+        {
+          "id": "5/1",
+          "tickets": [
+            { "id": 1, "time": "18:00" },
+            { "id": 2, "time": "20:00" }
+          ]
+        },
+        {
+          "id": "6/1",
+          "tickets": [
+            { "id": 1, "time": "18:00" },
+            { "id": 2, "time": "20:00" },
+            { "id": 3, "time": "22:00" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "poster": "/static/img/black-panther.jpg",
+      "title": "Black Panther",
+      "release": "16 February 2018",
+      "genres": [
+        { "id": "ACTION", "label": "Action" },
+        { "id": "ADVENTURE", "label": "Adventure" },
+        { "id": "SCI-FI", "label": "Sci-Fi" }
+      ],
+      "country": { "id": "USA", "label": "USA" },
+      "abstract": "T'Challa, after the death of his father, the King of Wakanda, returns home to the isolated, technologically advanced African nation to succeed to the throne and take his rightful place as king.",
+      "days": [
+        {
+          "id": "today",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "18:00" },
+            { "id": 3, "time": "20:00" }
+          ]
+        },
+        {
+          "id": "1/1",
+          "tickets": [
+            { "id": 1, "time": "20:00" }
+          ]
+        },
+        {
+          "id": "2/1",
+          "tickets": [
+            { "id": 1, "time": "18:00" },
+            { "id": 2, "time": "20:00" },
+            { "id": 3, "time": "22:00" }
+          ]
+        },
+        {
+          "id": "3/1",
+          "tickets": [
+            { "id": 1, "time": "16:00" },
+            { "id": 2, "time": "18:00" },
+            { "id": 3, "time": "20:00" },
+            { "id": 4, "time": "22:00" }
+          ]
+        },
+        {
+          "id": "4/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" },
+            { "id": 4, "time": "20:00" },
+            { "id": 5, "time": "22:00" }
+          ]
+        },
+        {
+          "id": "5/1",
+          "tickets": [
+            { "id": 1, "time": "16:00" },
+            { "id": 2, "time": "18:00" },
+            { "id": 3, "time": "20:00" }
+          ]
+        },
+        {
+          "id": "6/1",
+          "tickets": [
+            { "id": 1, "time": "20:00" },
+            { "id": 2, "time": "22:00" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "poster": "/static/img/bridget-jones-baby.jpg",
+      "title": "Bridget Jones Baby",
+      "release": "16 September 2016",
+      "genres": [
+        { "id": "COMEDY", "label": "Comedy" },
+        { "id": "ROMANCE", "label": "Romance" }
+      ],
+      "country": { "id": "USA", "label": "USA" },
+      "abstract": "Bridget's focus on single life and her career is interrupted when she finds herself pregnant, but with one hitch ... she can only be fifty percent sure of the identity of her baby's father.",
+      "days": [
+        {
+          "id": "today",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" }
+          ]
+        },
+        {
+          "id": "1/1",
+          "tickets": [
+            { "id": 1, "time": "16:00" },
+            { "id": 2, "time": "18:00" },
+            { "id": 3, "time": "20:00" }
+          ]
+        },
+        {
+          "id": "2/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" },
+            { "id": 4, "time": "20:00" },
+            { "id": 5, "time": "22:00" }
+          ]
+        },
+        {
+          "id": "3/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" }
+          ]
+        },
+        {
+          "id": "4/1",
+          "tickets": [
+            { "id": 1, "time": "16:00" },
+            { "id": 2, "time": "18:00" },
+            { "id": 3, "time": "20:00" }
+          ]
+        },
+        {
+          "id": "5/1",
+          "tickets": [
+            { "id": 1, "time": "18:00" },
+            { "id": 2, "time": "20:00" },
+            { "id": 3, "time": "22:00" }
+          ]
+        },
+        {
+          "id": "6/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "poster": "/static/img/coco.jpg",
+      "title": "Coco",
+      "release": "21 November 2017",
+      "genres": [
+        { "id": "ANIMATION", "label": "Animation" },
+        { "id": "ADVENTURE", "label": "Adventure" },
+        { "id": "COMEDY", "label": "Comedy" }
+      ],
+      "country": { "id": "USA", "label": "USA" },
+      "abstract": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+      "days": [
+        {
+          "id": "today",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "18:00" }
+          ]
+        },
+        {
+          "id": "1/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" },
+            { "id": 4, "time": "20:00" }
+          ]
+        },
+        {
+          "id": "2/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" }
+          ]
+        },
+        {
+          "id": "3/1",
+          "tickets": [
+            { "id": 1, "time": "16:00" },
+            { "id": 2, "time": "18:00" },
+            { "id": 3, "time": "20:00" }
+          ]
+        },
+        {
+          "id": "4/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" }
+          ]
+        },
+        {
+          "id": "5/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" },
+            { "id": 4, "time": "20:00" }
+          ]
+        },
+        {
+          "id": "6/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "poster": "/static/img/dallas-buyers-club.jpg",
+      "title": "Dallas Buyers Club",
+      "release": "22 November 2013",
+      "genres": [
+        { "id": "BIOGRAPHY", "label": "Biography" },
+        { "id": "DRAMA", "label": "Drama" }
+      ],
+      "country": { "id": "USA", "label": "USA" },
+      "abstract": "In 1985 Dallas, electrician and hustler Ron Woodroof works around the system to help AIDS patients get the medication they need after he is diagnosed with the disease.",
+      "days": [
+        {
+          "id": "today",
+          "tickets": [
+            { "id": 1, "time": "20:00" },
+            { "id": 2, "time": "22:00" }
+          ]
+        },
+        {
+          "id": "1/1",
+          "tickets": [
+            { "id": 1, "time": "16:00" },
+            { "id": 2, "time": "18:00" }
+          ]
+        },
+        {
+          "id": "2/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" },
+            { "id": 4, "time": "20:00" }
+          ]
+        },
+        {
+          "id": "3/1",
+          "tickets": [
+            { "id": 1, "time": "18:00" },
+            { "id": 2, "time": "20:00" }
+          ]
+        },
+        {
+          "id": "4/1",
+          "tickets": [
+            { "id": 1, "time": "20:00" }
+          ]
+        },
+        {
+          "id": "5/1",
+          "tickets": [
+            { "id": 1, "time": "16:00" },
+            { "id": 2, "time": "18:00" },
+            { "id": 3, "time": "20:00" },
+            { "id": 4, "time": "22:00" }
+          ]
+        },
+        {
+          "id": "6/1",
+          "tickets": [
+            { "id": 1, "time": "20:00" },
+            { "id": 2, "time": "22:00" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "poster": "/static/img/inception.jpg",
+      "title": "Inception",
+      "release": "16 July 2010",
+      "genres": [
+        { "id": "ACTION", "label": "Action" },
+        { "id": "ADVENTURE", "label": "Adventure" },
+        { "id": "SCI-FI", "label": "Sci-Fi" }
+      ],
+      "country": { "id": "USA", "label": "USA" },
+      "abstract": "A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.",
+      "days": [
+        {
+          "id": "today",
+          "tickets": [
+            { "id": 1, "time": "18:00" },
+            { "id": 2, "time": "20:00" },
+            { "id": 3, "time": "22:00" }
+          ]
+        },
+        {
+          "id": "1/1",
+          "tickets": [
+            { "id": 1, "time": "20:00" }
+          ]
+        },
+        {
+          "id": "2/1",
+          "tickets": [
+            { "id": 1, "time": "16:00" },
+            { "id": 2, "time": "18:00" },
+            { "id": 3, "time": "20:00" }
+          ]
+        },
+        {
+          "id": "3/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" },
+            { "id": 4, "time": "20:00" },
+            { "id": 5, "time": "22:00" }
+          ]
+        },
+        {
+          "id": "4/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" }
+          ]
+        },
+        {
+          "id": "5/1",
+          "tickets": [
+            { "id": 1, "time": "20:00" },
+            { "id": 2, "time": "22:00" }
+          ]
+        },
+        {
+          "id": "6/1",
+          "tickets": [
+            { "id": 1, "time": "22:00" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "poster": "/static/img/intouchable.jpg",
+      "title": "Intouchables",
+      "release": "2 November 2011",
+      "genres": [
+        { "id": "BIOGRAPHY", "label": "Biography" },
+        { "id": "COMEDY", "label": "Comedy" },
+        { "id": "DRAMA", "label": "Drama" }
+      ],
+      "country": { "id": "FRANCE", "label": "France" },
+      "abstract": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+      "days": [
+        {
+          "id": "today",
+          "tickets": [
+            { "id": 1, "time": "16:00" },
+            { "id": 2, "time": "18:00" }
+          ]
+        },
+        {
+          "id": "1/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" },
+            { "id": 4, "time": "20:00" },
+            { "id": 5, "time": "22:00" }
+          ]
+        },
+        {
+          "id": "2/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" }
+          ]
+        },
+        {
+          "id": "3/1",
+          "tickets": [
+            { "id": 1, "time": "18:00" }
+          ]
+        },
+        {
+          "id": "4/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" }
+          ]
+        },
+        {
+          "id": "5/1",
+          "tickets": [
+            { "id": 1, "time": "20:00" },
+            { "id": 2, "time": "22:00" }
+          ]
+        },
+        {
+          "id": "6/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" },
+            { "id": 4, "time": "20:00" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "poster": "/static/img/jurassic-world.jpg",
+      "title": "Jurassic World: Fallen Kingdom",
+      "release": "22 June 2018",
+      "genres": [
+        { "id": "ACTION", "label": "Action" },
+        { "id": "ADVENTURE", "label": "Adventure" },
+        { "id": "SCI-FI", "label": "Sci-Fi" }
+      ],
+      "country": { "id": "USA", "label": "USA" },
+      "abstract": "When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+      "days": [
+        {
+          "id": "today",
+          "tickets": [
+            { "id": 1, "time": "20:00" },
+            { "id": 2, "time": "22:00" },
+            { "id": 3, "time": "23:00" }
+          ]
+        },
+        {
+          "id": "1/1",
+          "tickets": [
+            { "id": 1, "time": "16:00" },
+            { "id": 2, "time": "18:00" },
+            { "id": 3, "time": "20:00" }
+          ]
+        },
+        {
+          "id": "2/1",
+          "tickets": [
+            { "id": 1, "time": "20:00" }
+          ]
+        },
+        {
+          "id": "3/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" }
+          ]
+        },
+        {
+          "id": "4/1",
+          "tickets": [
+            { "id": 1, "time": "22:00" }
+          ]
+        },
+        {
+          "id": "5/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" },
+            { "id": 4, "time": "20:00" },
+            { "id": 5, "time": "22:00" }
+          ]
+        },
+        {
+          "id": "6/1",
+          "tickets": [
+            { "id": 1, "time": "16:00" },
+            { "id": 2, "time": "18:00" },
+            { "id": 3, "time": "20:00" },
+            { "id": 4, "time": "22:00" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "poster": "/static/img/the-last-jedi.jpg",
+      "title": "Star Wars: The Last Jedi",
+      "release": "15 December 2017",
+      "genres": [
+        { "id": "ACTION", "label": "Action" },
+        { "id": "ADVENTURE", "label": "Adventure" },
+        { "id": "FANTASY", "label": "Fantasy" }
+      ],
+      "country": { "id": "USA", "label": "USA" },
+      "abstract": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.",
+      "days": [
+        {
+          "id": "today",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" },
+            { "id": 4, "time": "20:00" },
+            { "id": 5, "time": "22:00" }
+          ]
+        },
+        {
+          "id": "1/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" },
+            { "id": 4, "time": "20:00" }
+          ]
+        },
+        {
+          "id": "2/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" }
+          ]
+        },
+        {
+          "id": "3/1",
+          "tickets": [
+            { "id": 1, "time": "16:00" },
+            { "id": 2, "time": "18:00" },
+            { "id": 3, "time": "20:00" },
+            { "id": 4, "time": "22:00" }
+          ]
+        },
+        {
+          "id": "4/1",
+          "tickets": [
+            { "id": 1, "time": "16:00" },
+            { "id": 2, "time": "18:00" },
+            { "id": 3, "time": "20:00" }
+          ]
+        },
+        {
+          "id": "5/1",
+          "tickets": [
+            { "id": 1, "time": "18:00" },
+            { "id": 2, "time": "20:00" }
+          ]
+        },
+        {
+          "id": "6/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" },
+            { "id": 4, "time": "20:00" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "poster": "/static/img/toy-story.jpg",
+      "title": "Toy Story 3",
+      "release": "18 June 2010",
+      "genres": [
+        { "id": "ANIMATION", "label": "Animation" },
+        { "id": "ADVENTURE", "label": "Adventure" },
+        { "id": "COMEDY", "label": "Comedy" }
+      ],
+      "country": { "id": "USA", "label": "USA" },
+      "abstract": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+      "days": [
+        {
+          "id": "today",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" }
+          ]
+        },
+        {
+          "id": "1/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" }
+          ]
+        },
+        {
+          "id": "2/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" },
+            { "id": 4, "time": "20:00" }
+          ]
+        },
+        {
+          "id": "3/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" },
+            { "id": 4, "time": "20:00" },
+            { "id": 5, "time": "22:00" }
+          ]
+        },
+        {
+          "id": "4/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" }
+          ]
+        },
+        {
+          "id": "5/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" }
+          ]
+        },
+        {
+          "id": "6/1",
+          "tickets": [
+            { "id": 1, "time": "16:00" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "poster": "/static/img/train-to-busan.jpg",
+      "title": "Train To Busan3",
+      "release": "17 August 2016",
+      "genres": [
+        { "id": "ACTION", "label": "Action" },
+        { "id": "DRAMA", "label": "Drama" },
+        { "id": "HORROR", "label": "Horror" }
+      ],
+      "country": { "id": "SOUTH_KOREA", "label": "South Korea" },
+      "abstract": "While a zombie virus breaks out in South Korea, passengers struggle to survive on the train from Seoul to Busan.",
+      "days": [
+        {
+          "id": "today",
+          "tickets": [
+            { "id": 1, "time": "20:00" },
+            { "id": 2, "time": "22:00" }
+          ]
+        },
+        {
+          "id": "1/1",
+          "tickets": [
+            { "id": 1, "time": "18:00" },
+            { "id": 2, "time": "20:00" },
+            { "id": 3, "time": "22:00" }
+          ]
+        },
+        {
+          "id": "2/1",
+          "tickets": [
+            { "id": 1, "time": "16:00" },
+            { "id": 2, "time": "18:00" },
+            { "id": 3, "time": "20:00" }
+          ]
+        },
+        {
+          "id": "3/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" },
+            { "id": 4, "time": "20:00" }
+          ]
+        },
+        {
+          "id": "4/1",
+          "tickets": [
+            { "id": 1, "time": "18:00" },
+            { "id": 2, "time": "20:00" }
+          ]
+        },
+        {
+          "id": "5/1",
+          "tickets": [
+            { "id": 1, "time": "14:00" },
+            { "id": 2, "time": "16:00" },
+            { "id": 3, "time": "18:00" },
+            { "id": 4, "time": "20:00" },
+            { "id": 5, "time": "22:00" }
+          ]
+        },
+        {
+          "id": "6/1",
+          "tickets": [
+            { "id": 5, "time": "22:00" }
+          ]
+        }
+      ]
+    }
+  ]
+}

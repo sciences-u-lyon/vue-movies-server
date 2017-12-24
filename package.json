@@ -1,0 +1,24 @@
+{
+  "name": "vue-movies-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sciences-u-lyon/vue-movies-server.git"
+  },
+  "author": "Nicolas Payot <nicolas.payot@gmail.com> (http://nicolaspayot.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sciences-u-lyon/vue-movies-server/issues"
+  },
+  "homepage": "https://github.com/sciences-u-lyon/vue-movies-server#readme",
+  "dependencies": {
+    "express-validator": "^4.3.0",
+    "json-server": "^0.12.1"
+  }
+}
