@@ -26,9 +26,13 @@ server.post('/checkout', [
     .exists()
     .withMessage('is required'),
 
-  body('movie.datetime')
-    .isISO8601()
-    .withMessage('must be a valid ISO 8601 date')
+  body('movie.day')
+    .exists()
+    .withMessage('is required'),
+
+  body('movie.time')
+    .exists()
+    .withMessage('is required')
 
 ], (req, res) => {
   const errors = validationResult(req);
