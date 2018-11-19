@@ -4,8 +4,8 @@
 
 ``` bash
 # install dependencies
-npm install
+yarn
 
 # serve at localhost:3000
-npm start
+yarn start
 ```
